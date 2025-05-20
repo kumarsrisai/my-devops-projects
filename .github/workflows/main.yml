@@ -1,9 +1,11 @@
 #.github/workflows/main.yml
-name:Hello CI
+
+name: Hello CI
 
 on:
  push:
-  branches:
+
+   branches:
    - main
 
 jobs:
